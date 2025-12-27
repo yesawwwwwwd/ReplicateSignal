@@ -1,4 +1,4 @@
-local Library = loadstring(Game:HttpGet("thing"))()
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/yesawwwwwwd/ReplicateSignal/refs/heads/main/ui"))()
 local p = Library:NewWindow("ReplicateSignal Methods")
  
 local e = p:NewSection("Methods")
